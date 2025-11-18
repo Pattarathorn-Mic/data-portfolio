@@ -20,9 +20,8 @@ This project demonstrates:
 ---
 
 ## 🖼 Dashboard Preview
+![Dashboard Preview](screenshot.png)
 
-> *(Add screenshot here after upload)*  
-You can upload a screenshot file and reference it like this:
 
 
 ---
