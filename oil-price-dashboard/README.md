@@ -20,7 +20,7 @@ This project demonstrates:
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](bangchak_dashboard.png)
 
 
 
